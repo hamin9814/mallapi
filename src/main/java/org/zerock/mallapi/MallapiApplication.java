@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MallapiApplication {
 
 	public static void main(String[] args) {
+		//test comment
 		SpringApplication.run(MallapiApplication.class, args);
 	}
 }
